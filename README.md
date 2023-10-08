@@ -1,5 +1,5 @@
 <p align=center>
-  <a href="https://discord.com/users/976979527110647848"><img src="https://lanyard-profile-readme.vercel.app/api/976979527110647848" width=45%></a>
+  [![Discord Presence](https://lanyard.cnrad.dev/api/976979527110647848)](https://discord.com/users/976979527110647848)
 </p>
 
 ## &#x1f4c8; GitHub Stats
