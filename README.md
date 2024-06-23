@@ -2,11 +2,11 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/xiaotox-devfr?tab=followers">
+<a href="https://github.com/e0wr?tab=followers">
   <img src="https://img.shields.io/github/followers/e0wr">
 </a>
 
-<a href="https://github.com/loTus04">
+<a href="https://github.com/e0wr">
    <img src="https://komarev.com/ghpvc/?username=e0wr">
 </a>
 </br>
